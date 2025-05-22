@@ -1,0 +1,146 @@
+
+.menu { 
+    color: white;
+     font-family: monospace; font-weight: bold;
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color: black;
+    margin-left: 30px;
+    position: absolute;
+  top: 15px;
+}
+
+.barra {
+    width: 1450px;
+    height: 100px;
+    background-color: gray;
+    margin-left: -10px;
+    margin-right: -17px;
+    margin-top: -22px;
+}
+
+.barrablanca1 {
+     width: 1000px;
+    height: 15px;
+    background-color: white;
+    margin-left: -10px;
+    margin-right: -17px; 
+    position: absolute;
+    top: 70px;
+}
+
+.barrablanca2 {
+    width: 1000px;
+    height: 15px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 440px;
+    position: absolute;
+    top: 65px;
+   stroke-width: 2px;
+}
+
+.barrablanca3 {
+    width: 700px;
+    height: 15px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 740px;
+    position: absolute;
+    top: 80px;
+}
+.miley1 {
+    margin-left: -10px;
+}
+
+.barrablanca4 {
+    width: 1000px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    margin-left: -10px;
+    margin-right: -17px;
+    position: absolute;
+    top: 903px;
+}
+
+.barrablanca5 {
+    width: 1000px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 440px;
+    position: absolute;
+    top: 897px;
+}
+
+.barrablanca6 {
+    width: 700px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 740px;
+    position: absolute;
+    top: 912px;
+}
+
+
+#Párrafo1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: relative;
+    top: 300px;
+    margin-left: 150px;
+    margin-right: 570px;
+    font-weight: lighter;
+}
+
+#WreackingBall {
+    font-family: monospace;
+    font-size: 40px;
+    letter-spacing: 20px;
+    font-weight: lighter;
+    margin-top: 100px;
+    position: relative;
+    margin-left: 30px;
+}
+
+.recurso4 {
+    width: 190px;
+    height: 30px;
+    margin-left: 40px;
+    position: absolute;
+    top: 1070px;
+}
+
+.miley2 {
+    width: 430px;
+    height: 230px;
+    position: absolute;
+    margin-left: 900px;
+    top: 1020px;
+}
+
+.recurso2 {
+    width: 150px;
+    height: 180px;
+    position: absolute;
+    top: 1000px;
+    margin-left: 850px ;
+}
+
+.miley3 {
+width: 430px;
+    height: 230px;
+    position: absolute;
+    margin-left: 900px;
+    top: 1270px;
+}
+
+.recurso1 {
+    width: 165px;
+    height: 250px;
+    position: absolute;
+    top: 1300px;
+    margin-left: 30px;
+}
